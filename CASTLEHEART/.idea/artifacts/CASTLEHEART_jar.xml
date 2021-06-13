@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CASTLEHEART:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/CASTLEHEART_jar</output-path>
+    <root id="archive" name="CASTLEHEART.jar">
+      <element id="module-output" name="CASTLEHEART" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libs/tritonus_share.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libs/mp3spi1.9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libs/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
